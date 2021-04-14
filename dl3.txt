@@ -1,0 +1,66 @@
+Design and Synthesis of Combinational circuits
+Introduction to Logic Design10 : 04
+AND-OR OR-AND realization15 : 34
+Minimum No of NAND gates example03 : 00
+NOR - NOR example05 : 20
+Minimum No of NOR gates Example02 : 04
+Minimum Noof NOR gates Example01 : 39
+EX-OR and EX-NOR implementation with NOR and NAND gates07 : 53
+Half adder03 : 31
+Half subtracter03 : 36
+Comparator04 : 46
+Introduction to MUX13 : 54
+Proving MUX is functionally complete06 : 33
+Implementing functions with MUX example 116 : 03
+Implementing functions with MUX example 203 : 06
+multiplexer with enable input10 : 12
+relationship between select lines and inputs of a mux05 : 48
+cascading multiplexers - ex 103 : 49
+cascading multiplexers - ex 202 : 15
+cascading multiplexers - ex 303 : 29
+Expansion of multiplexers26 : 02
+Assigning select lines while expanding the MUX08 : 22
+Introduction to Demultiplexer18 : 19
+introduction to decoder11 : 36
+implementing functions with decoder example 103 : 03
+implementing functions with decoder example 208 : 54
+decoder for function implementation - ex303 : 50
+converting one code to other code using decoder16 : 05
+ROM implementation using decoder10 : 37
+Implementing Functions using only Decoder07 : 17
+Implementing Functions using Decoder and Multiplexer Example 110 : 32
+Implementing Functions using Decoder and Multiplexer Example 212 : 39
+Decoder with Enable Input11 : 12
+Constructing 3x8 Decoder using 1x2 Decode07 : 49
+Constructing 4x2 Decoder using 1x2 Decoder05 : 39
+Constructing 6x64 Decoder using 3x8 Decoder07 : 44
+Expansion of Decoder in general11 : 26
+Constructing 7x128 Decoder using 3x8 Decoder09 : 29
+Expansion of Decoders in another way12 : 18
+Address Expansion of ROM11 : 44
+Word Expansion of ROM08 : 21
+Finding the Address ranges of Devices03 : 13
+Example on Enabling a Device06 : 32
+Finding the address ranges of Memory Devices15 : 48
+Introduction to Encoders12 : 02
+Priority Encoders06 : 37
+Introduction to Hazards07 : 19
+Hazards and test vectors05 : 14
+Examples on Test Vectors07 : 09
+Half Adder04 : 37
+Full Adder11 : 23
+Ripple Carry Adder10 : 35
+Carry Lookahead Adder16 : 48
+Carry look ahead adder implementation08 : 51
+Hybrid adder07 : 29
+Serial adder07 : 46
+Binary adder-subtractor10 : 23
+BCD adder11 : 58
+Invalid combinations for BCD adder05 : 12
+2 bit comparator17 : 27
+3, 4 bit comparators09 : 33
+Analysing all the cases of comparators07 : 47
+Gate 2016 question on multiplexer02 : 16
+Time complexity of ripple carry adder02 : 09
+Time complexity carry look ahead adder11 : 27
+Sequential Circuits

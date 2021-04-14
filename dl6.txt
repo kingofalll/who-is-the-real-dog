@@ -1,0 +1,251 @@
+Logic Functions
+Basic properties of switching algebra14 : 14
+Switching expressions and simplifications14 : 06
+Demorgans law and simplification.10 : 12
+Switching Functions.09 : 18
+Canonical Sum of Products10 : 31
+Canonical Product of sums08 : 40
+Examples of canonical forms09 : 41
+Functional properties03 : 13
+Number of functions12 : 08
+counting the number of functions and neutral functions09 : 23
+Venn diagram representation11 : 32
+Contact representation10 : 36
+Nested function05 : 05
+NAND gate and properties05 : 29
+NOR gate and properties05 : 16
+EX OR gate and properties11 : 31
+EX NOR gate and properties10 : 39
+Properties of EX-OR and EX-NOR22 : 21
+Minimum number of gates required for EX-OR and EX-NOR04 : 48
+Functionally completeness08 : 37
+Example 1 on functional completeness04 : 43
+Example 2 on functional completeness04 : 41
+Example 3 on functional completeness03 : 01
+Example 4 on functional completeness01 : 26
+Example 5 on functional completeness08 : 29
+Example 6 on functional completeness09 : 07
+Self dual functions04 : 49
+Number of self dual functions07 : 59
+Self dual functions are closed under complementation04 : 40
+introduction to electronic gates05 : 25
+Positive and negative logic systems08 : 51
+Gate 2016 question on boolean algebra06 : 45
+Gate 2016 question on gray code function08 : 51
+Minimization
+Introduction to minimization of Boolean expressions05 : 07
+Irredundant or irreducible expressions08 : 37
+K map introduction14 : 35
+K map simplification19 : 27
+covering functions09 : 10
+Implicants and Prime Implicants07 : 42
+Essential Prime Implicants14 : 16
+Procedure for obtaining Minimal SOP19 : 53
+Minimal SOP Example08 : 18
+Minimal POS13 : 43
+Examples on Minimal POS06 : 36
+Introduction to Don't cares16 : 46
+Examples on don't care set 105 : 16
+Examples on don't care set 2.105 : 36
+Examples on don't care set 2.203 : 11
+Examples on don't care set 2.307 : 24
+Examples on don't care set 2.404 : 06
+Examples on don't care set 2.502 : 56
+Examples on don't care set 311 : 56
+Finding Minimal Expressions08 : 45
+Branching Technique for Minimising Cyclic Functions10 : 25
+Implicant and Prime Implicant Difference05 : 37
+Converting a Function into Self Dual07 : 59
+Combining Functions having Don't Cares09 : 56
+Prime Implicants and Don't Cares05 : 03
+Number of Minimal Expressions01 : 47
+Beautiful Question on Prime Implicant Chart07 : 50
+Variable Entrant Maps(VEM)06 : 05
+Minimisation using VEM09 : 17
+Example on VEM07 : 36
+finding the free variables03 : 35
+Relationship between Minimal POS SOP in case of don't cares - 112 : 48
+Relationship between Minimal POS SOP in case of don't cares - 209 : 00
+Comparing independent variables in minimal SOP and POS.mp4 Lecture Title04 : 43
+Number of irredundant and minimal expressions20 : 00
+don't cares are never included in the prime Implicant chart10 : 30
+Functions nvolving Functions Example 111 : 14
+Functions involving Functions example 204 : 33
+Functions involving Functions Example 309 : 40
+Examples on KMap12 : 15
+Design and Synthesis of Combinational circuits
+Introduction to Logic Design10 : 04
+AND-OR OR-AND realization15 : 34
+Minimum No of NAND gates example03 : 00
+NOR - NOR example05 : 20
+Minimum No of NOR gates Example02 : 04
+Minimum Noof NOR gates Example01 : 39
+EX-OR and EX-NOR implementation with NOR and NAND gates07 : 53
+Half adder03 : 31
+Half subtracter03 : 36
+Comparator04 : 46
+Introduction to MUX13 : 54
+Proving MUX is functionally complete06 : 33
+Implementing functions with MUX example 116 : 03
+Implementing functions with MUX example 203 : 06
+multiplexer with enable input10 : 12
+relationship between select lines and inputs of a mux05 : 48
+cascading multiplexers - ex 103 : 49
+cascading multiplexers - ex 202 : 15
+cascading multiplexers - ex 303 : 29
+Expansion of multiplexers26 : 02
+Assigning select lines while expanding the MUX08 : 22
+Introduction to Demultiplexer18 : 19
+introduction to decoder11 : 36
+implementing functions with decoder example 103 : 03
+implementing functions with decoder example 208 : 54
+decoder for function implementation - ex303 : 50
+converting one code to other code using decoder16 : 05
+ROM implementation using decoder10 : 37
+Implementing Functions using only Decoder07 : 17
+Implementing Functions using Decoder and Multiplexer Example 110 : 32
+Implementing Functions using Decoder and Multiplexer Example 212 : 39
+Decoder with Enable Input11 : 12
+Constructing 3x8 Decoder using 1x2 Decode07 : 49
+Constructing 4x2 Decoder using 1x2 Decoder05 : 39
+Constructing 6x64 Decoder using 3x8 Decoder07 : 44
+Expansion of Decoder in general11 : 26
+Constructing 7x128 Decoder using 3x8 Decoder09 : 29
+Expansion of Decoders in another way12 : 18
+Address Expansion of ROM11 : 44
+Word Expansion of ROM08 : 21
+Finding the Address ranges of Devices03 : 13
+Example on Enabling a Device06 : 32
+Finding the address ranges of Memory Devices15 : 48
+Introduction to Encoders12 : 02
+Priority Encoders06 : 37
+Introduction to Hazards07 : 19
+Hazards and test vectors05 : 14
+Examples on Test Vectors07 : 09
+Half Adder04 : 37
+Full Adder11 : 23
+Ripple Carry Adder10 : 35
+Carry Lookahead Adder16 : 48
+Carry look ahead adder implementation08 : 51
+Hybrid adder07 : 29
+Serial adder07 : 46
+Binary adder-subtractor10 : 23
+BCD adder11 : 58
+Invalid combinations for BCD adder05 : 12
+2 bit comparator17 : 27
+3, 4 bit comparators09 : 33
+Analysing all the cases of comparators07 : 47
+Gate 2016 question on multiplexer02 : 16
+Time complexity of ripple carry adder02 : 09
+Time complexity carry look ahead adder11 : 27
+Sequential Circuits
+Introduction to sequential circuits04 : 35
+latch and flipflop09 : 25
+SR flipflop28 : 20
+clocked flipflops08 : 59
+positive level triggered05 : 39
+edge triggered04 : 08
+JK flipflop12 : 49
+T flipflop05 : 24
+D flipflop08 : 12
+example on flipflop09 : 32
+example on flipflop 208 : 40
+introduction to flipflop inter conversion16 : 51
+inter conversion of flipflops example07 : 56
+inter conversion of flipflops example 206 : 47
+inter conversion of flipflops example 309 : 47
+inter conversion of flipflops example 402 : 41
+inter conversion of flipflops example 501 : 57
+introduction to counters04 : 47
+asynchronous and synchronous counters07 : 14
+shift counters07 : 01
+mod 2 ring counters05 : 26
+mod 4 Johnson counter04 : 12
+mod 6 Johnson counter05 : 37
+MoD 3 ring counters11 : 20
+mod 4 gray counter using T FF13 : 51
+mod 4 gray counter using D FF04 : 51
+mod 4 gray counter using 1 D and 1 T flipflop03 : 23
+counter using two different FFs14 : 15
+Deriving the clock frequency05 : 06
+self starting and free running09 : 39
+example on selfstarting and free running counters05 : 40
+counter using 3 different FFs11 : 32
+example on combinational circuits and FFs07 : 26
+introduction to asynchronous counters02 : 45
+Mod 8 up counter24 : 35
+Mod 4 up Counter04 : 08
+mod 4 down counter02 : 04
+Mod 8 random counter06 : 08
+model on analysis counting States and sequence generations13 : 36
+Applications of Flip flops02 : 08
+3 bit shift right register10 : 13
+Example 1 on shift right register06 : 43
+Example 2 on shift right register04 : 49
+Binary to gray convertor06 : 30
+Finding 2's complement12 : 35
+Gate 2001 on counting Sequence06 : 07
+Gate 2004 on SR-Latch02 : 16
+Gate 2014 on counter02 : 40
+Gate 2015 on sequence generation07 : 35
+Gate 2015 on bit sequence08 : 52
+Gate 2015 on sequence genetaion07 : 03
+Number system
+Introduction to Number system10 : 29
+Conversion to base 1013 : 29
+Conversion from base 1018 : 59
+Minimum number of bits required for inter conversion - ex 116 : 40
+Minimum number of bits required for inter conversion - ex 208 : 22
+Example 307 : 02
+Example 405 : 48
+Example 502 : 40
+Example 603 : 30
+Example 707 : 38
+Example 811 : 57
+Complementary number system26 : 39
+Why we use complements14 : 44
+Subtraction in diminished radix complement17 : 51
+Examples on diminished radix complement26 : 23
+examples on subtraction in radix complement27 : 04
+Summary of subtraction using complements in case of unsigned numbers11 : 14
+signed number representation05 : 52
+example on signed number representations21 : 39
+Ranges of signed number representations19 : 31
+Examples on Ranges10 : 02
+Sign bit extension19 : 55
+overflow24 : 08
+classification of binary codes10 : 43
+8421, Excess-3, 3321 codes19 : 09
+Examples on codes08 : 22
+BCD addition11 : 32
+Excess-3 addition06 : 59
+Gray code13 : 22
+Binary to gray and vice versa13 : 54
+Error detection14 : 00
+Error correction22 : 20
+Hamming code22 : 25
+Examples on Hamming code14 : 49
+Floating point Conversion10 : 18
+Floating point representation18 : 30
+Floating point representation08 : 40
+Floating point representation Example 113 : 17
+40 Example 208 : 26
+Example 302 : 40
+Introduction to Floating point representation03 : 15
+Introduction to IEEE Standards03 : 06
+Single Precision05 : 57
+Double precision02 : 51
+Example 1 on single precision02 : 54
+Example 2 on Single Precision01 : 39
+Example 1 on double Precision03 : 08
+Example 2 on Double Precision01 : 00
+Example on single and double Precision04 : 57
+Gate 2016 on number of integers03 : 24
+Binary multiplication(partial sum method)07 : 50
+Idea behind Booth's algorithm04 : 31
+Booth's algorithm example05 : 12
+Booth's algorithm14 : 21
+Booth algorithm operations flow03 : 41
+Advanteges and Dis- Advantages of Booth's algorithm04 : 08
+Example on fractional form05 : 56
+Example on fractional and implicit forms05 : 25

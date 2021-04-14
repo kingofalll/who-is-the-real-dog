@@ -1,0 +1,60 @@
+Number system
+Introduction to Number system10 : 29
+Conversion to base 1013 : 29
+Conversion from base 1018 : 59
+Minimum number of bits required for inter conversion - ex 116 : 40
+Minimum number of bits required for inter conversion - ex 208 : 22
+Example 307 : 02
+Example 405 : 48
+Example 502 : 40
+Example 603 : 30
+Example 707 : 38
+Example 811 : 57
+Complementary number system26 : 39
+Why we use complements14 : 44
+Subtraction in diminished radix complement17 : 51
+Examples on diminished radix complement26 : 23
+examples on subtraction in radix complement27 : 04
+Summary of subtraction using complements in case of unsigned numbers11 : 14
+signed number representation05 : 52
+example on signed number representations21 : 39
+Ranges of signed number representations19 : 31
+Examples on Ranges10 : 02
+Sign bit extension19 : 55
+overflow24 : 08
+classification of binary codes10 : 43
+8421, Excess-3, 3321 codes19 : 09
+Examples on codes08 : 22
+BCD addition11 : 32
+Excess-3 addition06 : 59
+Gray code13 : 22
+Binary to gray and vice versa13 : 54
+Error detection14 : 00
+Error correction22 : 20
+Hamming code22 : 25
+Examples on Hamming code14 : 49
+Floating point Conversion10 : 18
+Floating point representation18 : 30
+Floating point representation08 : 40
+Floating point representation Example 113 : 17
+40 Example 208 : 26
+Example 302 : 40
+Introduction to Floating point representation03 : 15
+Introduction to IEEE Standards03 : 06
+Single Precision05 : 57
+Double precision02 : 51
+Example 1 on single precision02 : 54
+Example 2 on Single Precision01 : 39
+Example 1 on double Precision03 : 08
+Example 2 on Double Precision01 : 00
+Example on single and double Precision04 : 57
+Gate 2016 on number of integers03 : 24
+Binary multiplication(partial sum method)07 : 50
+Idea behind Booth's algorithm04 : 31
+Booth's algorithm example05 : 12
+Booth's algorithm14 : 21
+Booth algorithm operations flow03 : 41
+Advanteges and Dis- Advantages of Booth's algorithm04 : 08
+Example on fractional form05 : 56
+Example on fractional and implicit forms05 : 25
+Practice Questions
