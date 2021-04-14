@@ -2,24 +2,7 @@ Minimization
 Introduction to minimization of Boolean expressions05 : 07
 Irredundant or irreducible expressions08 : 37
 K map introduction14 : 35
-K map simplification19 : 27
-covering functions09 : 10
-Implicants and Prime Implicants07 : 42
-Essential Prime Implicants14 : 16
-Procedure for obtaining Minimal SOP19 : 53
-Minimal SOP Example08 : 18
-Minimal POS13 : 43
-Examples on Minimal POS06 : 36
-Introduction to Don't cares16 : 46
-Examples on don't care set 105 : 16
-Examples on don't care set 2.105 : 36
-Examples on don't care set 2.203 : 11
-Examples on don't care set 2.307 : 24
-Examples on don't care set 2.404 : 06
-Examples on don't care set 2.502 : 56
-Examples on don't care set 311 : 56
-Finding Minimal Expressions08 : 45
-Branching Technique for Minimising Cyclic Functions10 : 25
+
 Implicant and Prime Implicant Difference05 : 37
 Converting a Function into Self Dual07 : 59
 Combining Functions having Don't Cares09 : 56
