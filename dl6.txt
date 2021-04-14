@@ -5,18 +5,7 @@ Demorgans law and simplification.10 : 12
 Switching Functions.09 : 18
 Canonical Sum of Products10 : 31
 Canonical Product of sums08 : 40
-Examples of canonical forms09 : 41
-Functional properties03 : 13
-Number of functions12 : 08
-counting the number of functions and neutral functions09 : 23
-Venn diagram representation11 : 32
-Contact representation10 : 36
-Nested function05 : 05
-NAND gate and properties05 : 29
-NOR gate and properties05 : 16
-EX OR gate and properties11 : 31
-EX NOR gate and properties10 : 39
-Properties of EX-OR and EX-NOR22 : 21
+
 Minimum number of gates required for EX-OR and EX-NOR04 : 48
 Functionally completeness08 : 37
 Example 1 on functional completeness04 : 43
